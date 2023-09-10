@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>checked-filledv2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="checked-filledv2" fill-rule="nonzero">
+            <rect id="Rectangle" stroke="#F384A7" fill="#F384A7" x="0.5" y="0.5" width="19" height="19" rx="4"></rect>
+            <g id="Colors/Pink" fill="#F384A7">
+                <polygon id="#F384A7" points="0 0 20 0 20 20 0 20"></polygon>
+            </g>
+            <g id="done" stroke-linecap="round" stroke-linejoin="round" transform="translate(3.000000, 5.000000)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.3">
+                <g id="Shape" transform="translate(0.750000, 0.000000)">
+                    <polygon id="Path" points="3.88888889 7.41258741 0.972222222 4.47552448 0 5.45454545 3.88888889 9.37062937 12.2222222 0.979020979 11.25 1.11022302e-15"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

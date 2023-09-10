@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Components / Icons / ArrowDown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sec-Header" transform="translate(-157.000000, -13.000000)">
+            <g transform="translate(0.000000, 4.000000)" id="Header">
+                <g>
+                    <g id="Components-/-Icons-/-ArrowDown" transform="translate(152.000000, 1.000000)">
+                        <rect id="Bound" x="0" y="0" width="20" height="20"></rect>
+                        <g id="ArrowDown" stroke-width="1" fill-rule="evenodd" transform="translate(5.000000, 7.500000)" fill="#000000">
+                            <path d="M8.12626625,0.91989096 C8.39259566,0.637814124 8.82847665,0.637814124 9.09480606,0.91989096 C9.35728687,1.19789163 9.35728687,1.6468014 9.09480606,1.92480207 L5.48593913,5.74705268 C5.3562896,5.88436808 5.18246108,5.95831565 5.00103427,5.95831137 C4.81979158,5.95981105 4.64419514,5.88488148 4.51406087,5.74705268 L0.905193937,1.92480207 C0.642713132,1.6468014 0.642713132,1.19789163 0.905193937,0.91989096 C1.17152335,0.637814124 1.60740434,0.637814124 1.87373375,0.91989096 L5,4.23100587 L8.12626625,0.91989096 Z" id="path-1"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
